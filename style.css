@@ -1,0 +1,67 @@
+.cardsfour{
+    margin-top: 40px;
+}
+
+.btn {
+    width: 50px;
+}
+
+.imageadobe {
+    width: 45px;
+}
+
+.btn {
+    border-radius: 8px;
+    width: 200px;
+}
+
+.form-control {
+    width: 1000px !important;
+}
+
+.secondnav {
+    display: flex;
+    justify-content: center;
+}
+
+.likeseen {
+    display: flex;
+    justify-content: end;
+}
+
+.signin {
+    margin-top: 40px;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.signin a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.socialbtn btn {
+    border-radius: 8px;
+    
+}
+
+.btnsocial {
+    
+    display: flex;
+    justify-content: center;
+}
+
+.fa-brands {
+    margin-top: 10px;
+    
+}
+
+
+
+.icons {
+    margin-left: 10px;
+    display: flex;
+    /* justify-content: center; */
+    gap: 10px;
+}
