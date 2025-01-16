@@ -1,5 +1,45 @@
+/* * {
+    margin-left: 2%;
+    margin-right: 2%;
+} */
+
+.dropdown-item {
+    margin-top: 10px;
+}
+
 .cardsfour{
     margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    width: 1450px;
+    /* gap: 30px; */
+}
+
+.col-control {
+    /* background-color: #4654e1; */
+    width: 250px;
+    height: 44px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+
+.butsearch {
+    position: absolute;
+    left: 1110px;
+    border-radius: 15%;
+    
+}
+
+.card-group{
+    gap: 10px;
+    border-radius: 8px !important;
+}
+
+.card {
+    border-radius: 8px;
+    
 }
 
 .btn {
@@ -7,21 +47,43 @@
 }
 
 .imageadobe {
-    width: 45px;
+    width: 30px;
 }
 
 .btn {
     border-radius: 8px;
+    width: 100px;
+}
+
+.btn-custom {
     width: 200px;
 }
 
-.form-control {
-    width: 1000px !important;
+.btn-custom2 {
+    width: 125px;
 }
 
-.secondnav {
-    display: flex;
-    justify-content: center;
+.btn-custom3 {
+    width: 150px;
+}
+
+.btn-custom4 {
+    /* width: 40px;
+    height: 20px; */
+    text-align: center;
+}
+
+.prospan {
+    background-color: #0b5ed7;
+    color: white;
+    border-radius: 4px;
+    padding: 0px 5px;
+}
+
+
+
+.form-control {
+    width: 1000px !important;
 }
 
 .likeseen {
@@ -33,7 +95,6 @@
     margin-top: 40px;
     text-align: center;
     font-weight: bold;
-
 }
 
 .signin a{
@@ -57,11 +118,45 @@
     
 }
 
-
-
 .icons {
     margin-left: 10px;
     display: flex;
     /* justify-content: center; */
     gap: 10px;
 }
+
+
+footer {
+    font-family: Arial, sans-serif;
+  }
+
+  footer a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  footer a:hover {
+    text-decoration: underline;
+  }
+
+  footer h6 {
+    font-size: 16px;
+    font-weight: bold;
+  }
+
+  footer p {
+    margin: 0;
+    font-size: 14px;
+  }
+
+  .border-top {
+    border-width: 2px !important;
+  }
+
+.colimg img{
+    width: 20px;
+    height: 20px;
+}
+
+
+
